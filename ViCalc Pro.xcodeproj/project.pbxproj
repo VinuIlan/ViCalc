@@ -15,6 +15,81 @@
 		972F40E51522876800D2CD40 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F40E41522876800D2CD40 /* AppDelegate.m */; };
 		972F40E81522876800D2CD40 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F40E71522876800D2CD40 /* ViewController.m */; };
 		972F40EB1522876800D2CD40 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F40E91522876800D2CD40 /* ViewController.xib */; };
+		972F4125152287B200D2CD40 /* ACButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40F1152287B200D2CD40 /* ACButton.png */; };
+		972F4126152287B200D2CD40 /* AreaPic.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40F2152287B200D2CD40 /* AreaPic.png */; };
+		972F4127152287B200D2CD40 /* BackButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40F3152287B200D2CD40 /* BackButton.png */; };
+		972F4128152287B200D2CD40 /* BackgroundButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40F4152287B200D2CD40 /* BackgroundButton.png */; };
+		972F4129152287B200D2CD40 /* CButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40F5152287B200D2CD40 /* CButton.png */; };
+		972F412A152287B200D2CD40 /* ClearButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40F6152287B200D2CD40 /* ClearButton.png */; };
+		972F412B152287B200D2CD40 /* DecimalPoint.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40F7152287B200D2CD40 /* DecimalPoint.png */; };
+		972F412C152287B200D2CD40 /* Default Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40F8152287B200D2CD40 /* Default Icon.png */; };
+		972F412D152287B200D2CD40 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40F9152287B200D2CD40 /* Default.png */; };
+		972F412E152287B200D2CD40 /* DefaultIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40FA152287B200D2CD40 /* DefaultIcon.png */; };
+		972F412F152287B200D2CD40 /* DivideSign.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40FB152287B200D2CD40 /* DivideSign.png */; };
+		972F4130152287B200D2CD40 /* EqualSign.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40FC152287B200D2CD40 /* EqualSign.png */; };
+		972F4131152287B200D2CD40 /* FindButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40FD152287B200D2CD40 /* FindButton.png */; };
+		972F4132152287B200D2CD40 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40FE152287B200D2CD40 /* icon.png */; };
+		972F4133152287B200D2CD40 /* MasterBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F40FF152287B200D2CD40 /* MasterBackground.png */; };
+		972F4134152287B200D2CD40 /* MinusSign.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4100152287B200D2CD40 /* MinusSign.png */; };
+		972F4135152287B200D2CD40 /* MultiplySign.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4101152287B200D2CD40 /* MultiplySign.png */; };
+		972F4136152287B200D2CD40 /* NegativeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4102152287B200D2CD40 /* NegativeButton.png */; };
+		972F4137152287B200D2CD40 /* Number0.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4103152287B200D2CD40 /* Number0.png */; };
+		972F4138152287B200D2CD40 /* Number1.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4104152287B200D2CD40 /* Number1.png */; };
+		972F4139152287B200D2CD40 /* Number2.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4105152287B200D2CD40 /* Number2.png */; };
+		972F413A152287B200D2CD40 /* Number3.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4106152287B200D2CD40 /* Number3.png */; };
+		972F413B152287B200D2CD40 /* Number4.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4107152287B200D2CD40 /* Number4.png */; };
+		972F413C152287B200D2CD40 /* Number5.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4108152287B200D2CD40 /* Number5.png */; };
+		972F413D152287B200D2CD40 /* Number6.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4109152287B200D2CD40 /* Number6.png */; };
+		972F413E152287B200D2CD40 /* Number7.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F410A152287B200D2CD40 /* Number7.png */; };
+		972F413F152287B200D2CD40 /* Number8.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F410B152287B200D2CD40 /* Number8.png */; };
+		972F4140152287B200D2CD40 /* Number9.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F410C152287B200D2CD40 /* Number9.png */; };
+		972F4141152287B200D2CD40 /* PlusSign.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F410D152287B200D2CD40 /* PlusSign.png */; };
+		972F4142152287B200D2CD40 /* PrimeNumbers.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F410F152287B200D2CD40 /* PrimeNumbers.m */; };
+		972F4143152287B200D2CD40 /* PrimeNumbers.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F4110152287B200D2CD40 /* PrimeNumbers.xib */; };
+		972F4144152287B200D2CD40 /* QuadraticFormula.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4111152287B200D2CD40 /* QuadraticFormula.png */; };
+		972F4145152287B200D2CD40 /* RandomNumberView.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4112152287B200D2CD40 /* RandomNumberView.png */; };
+		972F4146152287B200D2CD40 /* ScreenA.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4113152287B200D2CD40 /* ScreenA.png */; };
+		972F4147152287B200D2CD40 /* ScreenB.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4114152287B200D2CD40 /* ScreenB.png */; };
+		972F4148152287B200D2CD40 /* TableBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4115152287B200D2CD40 /* TableBackground.png */; };
+		972F4149152287B200D2CD40 /* Top20IntegralsPic.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4116152287B200D2CD40 /* Top20IntegralsPic.png */; };
+		972F414A152287B200D2CD40 /* Top20IntegralsPic2.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4117152287B200D2CD40 /* Top20IntegralsPic2.png */; };
+		972F414B152287B200D2CD40 /* TopIntegrals.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4118152287B200D2CD40 /* TopIntegrals.png */; };
+		972F414C152287B200D2CD40 /* Trig Unit Circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4119152287B200D2CD40 /* Trig Unit Circle.png */; };
+		972F414D152287B200D2CD40 /* Trig Unit Cirle Chart.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F411A152287B200D2CD40 /* Trig Unit Cirle Chart.png */; };
+		972F414E152287B200D2CD40 /* TrigIdentities.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F411B152287B200D2CD40 /* TrigIdentities.png */; };
+		972F414F152287B200D2CD40 /* TrigLaws.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F411C152287B200D2CD40 /* TrigLaws.png */; };
+		972F4150152287B200D2CD40 /* TrigLawsView.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F411D152287B200D2CD40 /* TrigLawsView.png */; };
+		972F4151152287B200D2CD40 /* TrigUnitCircleView.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F411E152287B200D2CD40 /* TrigUnitCircleView.png */; };
+		972F4152152287B200D2CD40 /* ViCalcBasicCalcView.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F411F152287B200D2CD40 /* ViCalcBasicCalcView.png */; };
+		972F4153152287B200D2CD40 /* ViCalcIconR.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4120152287B200D2CD40 /* ViCalcIconR.png */; };
+		972F4154152287B200D2CD40 /* ViCalcMainView.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4121152287B200D2CD40 /* ViCalcMainView.png */; };
+		972F4155152287B200D2CD40 /* VolAreaEquationsView.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4122152287B200D2CD40 /* VolAreaEquationsView.png */; };
+		972F4156152287B200D2CD40 /* VolumePic.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4123152287B200D2CD40 /* VolumePic.png */; };
+		972F4157152287B200D2CD40 /* WhiteOpaqueBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F4124152287B200D2CD40 /* WhiteOpaqueBackground.png */; };
+		972F4179152287EA00D2CD40 /* AboutPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F4159152287EA00D2CD40 /* AboutPage.m */; };
+		972F417A152287EA00D2CD40 /* AboutPage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F415A152287EA00D2CD40 /* AboutPage.xib */; };
+		972F417B152287EA00D2CD40 /* Average.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F415C152287EA00D2CD40 /* Average.m */; };
+		972F417C152287EA00D2CD40 /* Average.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F415D152287EA00D2CD40 /* Average.xib */; };
+		972F417D152287EA00D2CD40 /* BasicCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F415F152287EA00D2CD40 /* BasicCalculator.m */; };
+		972F417E152287EA00D2CD40 /* BasicCalculator.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F4160152287EA00D2CD40 /* BasicCalculator.xib */; };
+		972F417F152287EA00D2CD40 /* GCFandLCM.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F4162152287EA00D2CD40 /* GCFandLCM.m */; };
+		972F4180152287EA00D2CD40 /* GCFandLCM.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F4163152287EA00D2CD40 /* GCFandLCM.xib */; };
+		972F4181152287EA00D2CD40 /* QuadraticEquationSolver.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F4165152287EA00D2CD40 /* QuadraticEquationSolver.m */; };
+		972F4182152287EA00D2CD40 /* QuadraticEquationSolver.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F4166152287EA00D2CD40 /* QuadraticEquationSolver.xib */; };
+		972F4183152287EA00D2CD40 /* RandomNumberGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F4168152287EA00D2CD40 /* RandomNumberGenerator.m */; };
+		972F4184152287EA00D2CD40 /* RandomNumberGenerator.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F4169152287EA00D2CD40 /* RandomNumberGenerator.xib */; };
+		972F4185152287EA00D2CD40 /* SemesterGradeCalc.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F416B152287EA00D2CD40 /* SemesterGradeCalc.m */; };
+		972F4186152287EA00D2CD40 /* SemesterGradeCalc.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F416C152287EA00D2CD40 /* SemesterGradeCalc.xib */; };
+		972F4187152287EA00D2CD40 /* TopIntegrals.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F416E152287EA00D2CD40 /* TopIntegrals.m */; };
+		972F4188152287EA00D2CD40 /* TopIntegrals.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F416F152287EA00D2CD40 /* TopIntegrals.xib */; };
+		972F4189152287EA00D2CD40 /* TrigLaws.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F4171152287EA00D2CD40 /* TrigLaws.m */; };
+		972F418A152287EA00D2CD40 /* TrigLaws.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F4172152287EA00D2CD40 /* TrigLaws.xib */; };
+		972F418B152287EA00D2CD40 /* TrigUnitCircle.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F4174152287EA00D2CD40 /* TrigUnitCircle.m */; };
+		972F418C152287EA00D2CD40 /* TrigUnitCircle.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F4175152287EA00D2CD40 /* TrigUnitCircle.xib */; };
+		972F418D152287EA00D2CD40 /* VolAreaEqns.m in Sources */ = {isa = PBXBuildFile; fileRef = 972F4177152287EA00D2CD40 /* VolAreaEqns.m */; };
+		972F418E152287EA00D2CD40 /* VolAreaEqns.xib in Resources */ = {isa = PBXBuildFile; fileRef = 972F4178152287EA00D2CD40 /* VolAreaEqns.xib */; };
+		972F419115228B0300D2CD40 /* ViCalcIconR.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F419015228B0300D2CD40 /* ViCalcIconR.png */; };
+		972F419315228B0D00D2CD40 /* DefaultIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 972F419215228B0D00D2CD40 /* DefaultIcon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,15 +97,102 @@
 		972F40D41522876700D2CD40 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		972F40D61522876700D2CD40 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		972F40D81522876700D2CD40 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		972F40DC1522876800D2CD40 /* ViCalc Pro-Info.plist */ = {isa = PBXFileReference; path = "ViCalc Pro-Info.plist"; sourceTree = "<group>"; };
+		972F40DC1522876800D2CD40 /* ViCalc Pro-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ViCalc Pro-Info.plist"; sourceTree = "<group>"; };
 		972F40DE1522876800D2CD40 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		972F40E01522876800D2CD40 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		972F40E21522876800D2CD40 /* ViCalc Pro-Prefix.pch */ = {isa = PBXFileReference; path = "ViCalc Pro-Prefix.pch"; sourceTree = "<group>"; };
-		972F40E31522876800D2CD40 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		972F40E21522876800D2CD40 /* ViCalc Pro-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ViCalc Pro-Prefix.pch"; sourceTree = "<group>"; };
+		972F40E31522876800D2CD40 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		972F40E41522876800D2CD40 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		972F40E61522876800D2CD40 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		972F40E61522876800D2CD40 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		972F40E71522876800D2CD40 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		972F40EA1522876800D2CD40 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		972F40F1152287B200D2CD40 /* ACButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ACButton.png; path = ../ViCalc/ACButton.png; sourceTree = "<group>"; };
+		972F40F2152287B200D2CD40 /* AreaPic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AreaPic.png; path = ../ViCalc/AreaPic.png; sourceTree = "<group>"; };
+		972F40F3152287B200D2CD40 /* BackButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BackButton.png; path = ../ViCalc/BackButton.png; sourceTree = "<group>"; };
+		972F40F4152287B200D2CD40 /* BackgroundButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BackgroundButton.png; path = ../ViCalc/BackgroundButton.png; sourceTree = "<group>"; };
+		972F40F5152287B200D2CD40 /* CButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CButton.png; path = ../ViCalc/CButton.png; sourceTree = "<group>"; };
+		972F40F6152287B200D2CD40 /* ClearButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ClearButton.png; path = ../ViCalc/ClearButton.png; sourceTree = "<group>"; };
+		972F40F7152287B200D2CD40 /* DecimalPoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = DecimalPoint.png; path = ../ViCalc/DecimalPoint.png; sourceTree = "<group>"; };
+		972F40F8152287B200D2CD40 /* Default Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default Icon.png"; path = "../ViCalc/Default Icon.png"; sourceTree = "<group>"; };
+		972F40F9152287B200D2CD40 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../ViCalc/Default.png; sourceTree = "<group>"; };
+		972F40FA152287B200D2CD40 /* DefaultIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = DefaultIcon.png; path = ../ViCalc/DefaultIcon.png; sourceTree = "<group>"; };
+		972F40FB152287B200D2CD40 /* DivideSign.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = DivideSign.png; path = ../ViCalc/DivideSign.png; sourceTree = "<group>"; };
+		972F40FC152287B200D2CD40 /* EqualSign.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = EqualSign.png; path = ../ViCalc/EqualSign.png; sourceTree = "<group>"; };
+		972F40FD152287B200D2CD40 /* FindButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FindButton.png; path = ../ViCalc/FindButton.png; sourceTree = "<group>"; };
+		972F40FE152287B200D2CD40 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = ../ViCalc/icon.png; sourceTree = "<group>"; };
+		972F40FF152287B200D2CD40 /* MasterBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MasterBackground.png; path = ../ViCalc/MasterBackground.png; sourceTree = "<group>"; };
+		972F4100152287B200D2CD40 /* MinusSign.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MinusSign.png; path = ../ViCalc/MinusSign.png; sourceTree = "<group>"; };
+		972F4101152287B200D2CD40 /* MultiplySign.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MultiplySign.png; path = ../ViCalc/MultiplySign.png; sourceTree = "<group>"; };
+		972F4102152287B200D2CD40 /* NegativeButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = NegativeButton.png; path = ../ViCalc/NegativeButton.png; sourceTree = "<group>"; };
+		972F4103152287B200D2CD40 /* Number0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Number0.png; path = ../ViCalc/Number0.png; sourceTree = "<group>"; };
+		972F4104152287B200D2CD40 /* Number1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Number1.png; path = ../ViCalc/Number1.png; sourceTree = "<group>"; };
+		972F4105152287B200D2CD40 /* Number2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Number2.png; path = ../ViCalc/Number2.png; sourceTree = "<group>"; };
+		972F4106152287B200D2CD40 /* Number3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Number3.png; path = ../ViCalc/Number3.png; sourceTree = "<group>"; };
+		972F4107152287B200D2CD40 /* Number4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Number4.png; path = ../ViCalc/Number4.png; sourceTree = "<group>"; };
+		972F4108152287B200D2CD40 /* Number5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Number5.png; path = ../ViCalc/Number5.png; sourceTree = "<group>"; };
+		972F4109152287B200D2CD40 /* Number6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Number6.png; path = ../ViCalc/Number6.png; sourceTree = "<group>"; };
+		972F410A152287B200D2CD40 /* Number7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Number7.png; path = ../ViCalc/Number7.png; sourceTree = "<group>"; };
+		972F410B152287B200D2CD40 /* Number8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Number8.png; path = ../ViCalc/Number8.png; sourceTree = "<group>"; };
+		972F410C152287B200D2CD40 /* Number9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Number9.png; path = ../ViCalc/Number9.png; sourceTree = "<group>"; };
+		972F410D152287B200D2CD40 /* PlusSign.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = PlusSign.png; path = ../ViCalc/PlusSign.png; sourceTree = "<group>"; };
+		972F410E152287B200D2CD40 /* PrimeNumbers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PrimeNumbers.h; path = ../ViCalc/PrimeNumbers.h; sourceTree = "<group>"; };
+		972F410F152287B200D2CD40 /* PrimeNumbers.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PrimeNumbers.m; path = ../ViCalc/PrimeNumbers.m; sourceTree = "<group>"; };
+		972F4110152287B200D2CD40 /* PrimeNumbers.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PrimeNumbers.xib; path = ../ViCalc/PrimeNumbers.xib; sourceTree = "<group>"; };
+		972F4111152287B200D2CD40 /* QuadraticFormula.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = QuadraticFormula.png; path = ../ViCalc/QuadraticFormula.png; sourceTree = "<group>"; };
+		972F4112152287B200D2CD40 /* RandomNumberView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RandomNumberView.png; path = ../ViCalc/RandomNumberView.png; sourceTree = "<group>"; };
+		972F4113152287B200D2CD40 /* ScreenA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ScreenA.png; path = ../ViCalc/ScreenA.png; sourceTree = "<group>"; };
+		972F4114152287B200D2CD40 /* ScreenB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ScreenB.png; path = ../ViCalc/ScreenB.png; sourceTree = "<group>"; };
+		972F4115152287B200D2CD40 /* TableBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TableBackground.png; path = ../ViCalc/TableBackground.png; sourceTree = "<group>"; };
+		972F4116152287B200D2CD40 /* Top20IntegralsPic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Top20IntegralsPic.png; path = ../ViCalc/Top20IntegralsPic.png; sourceTree = "<group>"; };
+		972F4117152287B200D2CD40 /* Top20IntegralsPic2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Top20IntegralsPic2.png; path = ../ViCalc/Top20IntegralsPic2.png; sourceTree = "<group>"; };
+		972F4118152287B200D2CD40 /* TopIntegrals.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TopIntegrals.png; path = ../ViCalc/TopIntegrals.png; sourceTree = "<group>"; };
+		972F4119152287B200D2CD40 /* Trig Unit Circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Trig Unit Circle.png"; path = "../ViCalc/Trig Unit Circle.png"; sourceTree = "<group>"; };
+		972F411A152287B200D2CD40 /* Trig Unit Cirle Chart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Trig Unit Cirle Chart.png"; path = "../ViCalc/Trig Unit Cirle Chart.png"; sourceTree = "<group>"; };
+		972F411B152287B200D2CD40 /* TrigIdentities.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TrigIdentities.png; path = ../ViCalc/TrigIdentities.png; sourceTree = "<group>"; };
+		972F411C152287B200D2CD40 /* TrigLaws.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TrigLaws.png; path = ../ViCalc/TrigLaws.png; sourceTree = "<group>"; };
+		972F411D152287B200D2CD40 /* TrigLawsView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TrigLawsView.png; path = ../ViCalc/TrigLawsView.png; sourceTree = "<group>"; };
+		972F411E152287B200D2CD40 /* TrigUnitCircleView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TrigUnitCircleView.png; path = ../ViCalc/TrigUnitCircleView.png; sourceTree = "<group>"; };
+		972F411F152287B200D2CD40 /* ViCalcBasicCalcView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ViCalcBasicCalcView.png; path = ../ViCalc/ViCalcBasicCalcView.png; sourceTree = "<group>"; };
+		972F4120152287B200D2CD40 /* ViCalcIconR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ViCalcIconR.png; path = ../ViCalc/ViCalcIconR.png; sourceTree = "<group>"; };
+		972F4121152287B200D2CD40 /* ViCalcMainView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ViCalcMainView.png; path = ../ViCalc/ViCalcMainView.png; sourceTree = "<group>"; };
+		972F4122152287B200D2CD40 /* VolAreaEquationsView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = VolAreaEquationsView.png; path = ../ViCalc/VolAreaEquationsView.png; sourceTree = "<group>"; };
+		972F4123152287B200D2CD40 /* VolumePic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = VolumePic.png; path = ../ViCalc/VolumePic.png; sourceTree = "<group>"; };
+		972F4124152287B200D2CD40 /* WhiteOpaqueBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = WhiteOpaqueBackground.png; path = ../ViCalc/WhiteOpaqueBackground.png; sourceTree = "<group>"; };
+		972F4158152287EA00D2CD40 /* AboutPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AboutPage.h; path = ../ViCalc/ViCalc/AboutPage.h; sourceTree = "<group>"; };
+		972F4159152287EA00D2CD40 /* AboutPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AboutPage.m; path = ../ViCalc/ViCalc/AboutPage.m; sourceTree = "<group>"; };
+		972F415A152287EA00D2CD40 /* AboutPage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = AboutPage.xib; path = ../ViCalc/ViCalc/AboutPage.xib; sourceTree = "<group>"; };
+		972F415B152287EA00D2CD40 /* Average.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Average.h; path = ../ViCalc/ViCalc/Average.h; sourceTree = "<group>"; };
+		972F415C152287EA00D2CD40 /* Average.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Average.m; path = ../ViCalc/ViCalc/Average.m; sourceTree = "<group>"; };
+		972F415D152287EA00D2CD40 /* Average.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = Average.xib; path = ../ViCalc/ViCalc/Average.xib; sourceTree = "<group>"; };
+		972F415E152287EA00D2CD40 /* BasicCalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BasicCalculator.h; path = ../ViCalc/ViCalc/BasicCalculator.h; sourceTree = "<group>"; };
+		972F415F152287EA00D2CD40 /* BasicCalculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BasicCalculator.m; path = ../ViCalc/ViCalc/BasicCalculator.m; sourceTree = "<group>"; };
+		972F4160152287EA00D2CD40 /* BasicCalculator.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = BasicCalculator.xib; path = ../ViCalc/ViCalc/BasicCalculator.xib; sourceTree = "<group>"; };
+		972F4161152287EA00D2CD40 /* GCFandLCM.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GCFandLCM.h; path = ../ViCalc/ViCalc/GCFandLCM.h; sourceTree = "<group>"; };
+		972F4162152287EA00D2CD40 /* GCFandLCM.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GCFandLCM.m; path = ../ViCalc/ViCalc/GCFandLCM.m; sourceTree = "<group>"; };
+		972F4163152287EA00D2CD40 /* GCFandLCM.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = GCFandLCM.xib; path = ../ViCalc/ViCalc/GCFandLCM.xib; sourceTree = "<group>"; };
+		972F4164152287EA00D2CD40 /* QuadraticEquationSolver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = QuadraticEquationSolver.h; path = ../ViCalc/ViCalc/QuadraticEquationSolver.h; sourceTree = "<group>"; };
+		972F4165152287EA00D2CD40 /* QuadraticEquationSolver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = QuadraticEquationSolver.m; path = ../ViCalc/ViCalc/QuadraticEquationSolver.m; sourceTree = "<group>"; };
+		972F4166152287EA00D2CD40 /* QuadraticEquationSolver.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = QuadraticEquationSolver.xib; path = ../ViCalc/ViCalc/QuadraticEquationSolver.xib; sourceTree = "<group>"; };
+		972F4167152287EA00D2CD40 /* RandomNumberGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RandomNumberGenerator.h; path = ../ViCalc/ViCalc/RandomNumberGenerator.h; sourceTree = "<group>"; };
+		972F4168152287EA00D2CD40 /* RandomNumberGenerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RandomNumberGenerator.m; path = ../ViCalc/ViCalc/RandomNumberGenerator.m; sourceTree = "<group>"; };
+		972F4169152287EA00D2CD40 /* RandomNumberGenerator.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = RandomNumberGenerator.xib; path = ../ViCalc/ViCalc/RandomNumberGenerator.xib; sourceTree = "<group>"; };
+		972F416A152287EA00D2CD40 /* SemesterGradeCalc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SemesterGradeCalc.h; path = ../ViCalc/ViCalc/SemesterGradeCalc.h; sourceTree = "<group>"; };
+		972F416B152287EA00D2CD40 /* SemesterGradeCalc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SemesterGradeCalc.m; path = ../ViCalc/ViCalc/SemesterGradeCalc.m; sourceTree = "<group>"; };
+		972F416C152287EA00D2CD40 /* SemesterGradeCalc.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = SemesterGradeCalc.xib; path = ../ViCalc/ViCalc/SemesterGradeCalc.xib; sourceTree = "<group>"; };
+		972F416D152287EA00D2CD40 /* TopIntegrals.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TopIntegrals.h; path = ../ViCalc/ViCalc/TopIntegrals.h; sourceTree = "<group>"; };
+		972F416E152287EA00D2CD40 /* TopIntegrals.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TopIntegrals.m; path = ../ViCalc/ViCalc/TopIntegrals.m; sourceTree = "<group>"; };
+		972F416F152287EA00D2CD40 /* TopIntegrals.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = TopIntegrals.xib; path = ../ViCalc/ViCalc/TopIntegrals.xib; sourceTree = "<group>"; };
+		972F4170152287EA00D2CD40 /* TrigLaws.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TrigLaws.h; path = ../ViCalc/ViCalc/TrigLaws.h; sourceTree = "<group>"; };
+		972F4171152287EA00D2CD40 /* TrigLaws.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TrigLaws.m; path = ../ViCalc/ViCalc/TrigLaws.m; sourceTree = "<group>"; };
+		972F4172152287EA00D2CD40 /* TrigLaws.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = TrigLaws.xib; path = ../ViCalc/ViCalc/TrigLaws.xib; sourceTree = "<group>"; };
+		972F4173152287EA00D2CD40 /* TrigUnitCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TrigUnitCircle.h; path = ../ViCalc/ViCalc/TrigUnitCircle.h; sourceTree = "<group>"; };
+		972F4174152287EA00D2CD40 /* TrigUnitCircle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TrigUnitCircle.m; path = ../ViCalc/ViCalc/TrigUnitCircle.m; sourceTree = "<group>"; };
+		972F4175152287EA00D2CD40 /* TrigUnitCircle.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = TrigUnitCircle.xib; path = ../ViCalc/ViCalc/TrigUnitCircle.xib; sourceTree = "<group>"; };
+		972F4176152287EA00D2CD40 /* VolAreaEqns.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VolAreaEqns.h; path = ../ViCalc/ViCalc/VolAreaEqns.h; sourceTree = "<group>"; };
+		972F4177152287EA00D2CD40 /* VolAreaEqns.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VolAreaEqns.m; path = ../ViCalc/ViCalc/VolAreaEqns.m; sourceTree = "<group>"; };
+		972F4178152287EA00D2CD40 /* VolAreaEqns.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = VolAreaEqns.xib; path = ../ViCalc/ViCalc/VolAreaEqns.xib; sourceTree = "<group>"; };
+		972F419015228B0300D2CD40 /* ViCalcIconR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ViCalcIconR.png; sourceTree = "<group>"; };
+		972F419215228B0D00D2CD40 /* DefaultIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DefaultIcon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +212,45 @@
 		972F40C51522876700D2CD40 = {
 			isa = PBXGroup;
 			children = (
+				972F419215228B0D00D2CD40 /* DefaultIcon.png */,
+				972F419015228B0300D2CD40 /* ViCalcIconR.png */,
+				972F4158152287EA00D2CD40 /* AboutPage.h */,
+				972F4159152287EA00D2CD40 /* AboutPage.m */,
+				972F415A152287EA00D2CD40 /* AboutPage.xib */,
+				972F415B152287EA00D2CD40 /* Average.h */,
+				972F415C152287EA00D2CD40 /* Average.m */,
+				972F415D152287EA00D2CD40 /* Average.xib */,
+				972F415E152287EA00D2CD40 /* BasicCalculator.h */,
+				972F415F152287EA00D2CD40 /* BasicCalculator.m */,
+				972F4160152287EA00D2CD40 /* BasicCalculator.xib */,
+				972F4161152287EA00D2CD40 /* GCFandLCM.h */,
+				972F4162152287EA00D2CD40 /* GCFandLCM.m */,
+				972F4163152287EA00D2CD40 /* GCFandLCM.xib */,
+				972F4164152287EA00D2CD40 /* QuadraticEquationSolver.h */,
+				972F4165152287EA00D2CD40 /* QuadraticEquationSolver.m */,
+				972F4166152287EA00D2CD40 /* QuadraticEquationSolver.xib */,
+				972F4167152287EA00D2CD40 /* RandomNumberGenerator.h */,
+				972F4168152287EA00D2CD40 /* RandomNumberGenerator.m */,
+				972F4169152287EA00D2CD40 /* RandomNumberGenerator.xib */,
+				972F416A152287EA00D2CD40 /* SemesterGradeCalc.h */,
+				972F416B152287EA00D2CD40 /* SemesterGradeCalc.m */,
+				972F416C152287EA00D2CD40 /* SemesterGradeCalc.xib */,
+				972F416D152287EA00D2CD40 /* TopIntegrals.h */,
+				972F416E152287EA00D2CD40 /* TopIntegrals.m */,
+				972F416F152287EA00D2CD40 /* TopIntegrals.xib */,
+				972F4170152287EA00D2CD40 /* TrigLaws.h */,
+				972F4171152287EA00D2CD40 /* TrigLaws.m */,
+				972F4172152287EA00D2CD40 /* TrigLaws.xib */,
+				972F4173152287EA00D2CD40 /* TrigUnitCircle.h */,
+				972F4174152287EA00D2CD40 /* TrigUnitCircle.m */,
+				972F4175152287EA00D2CD40 /* TrigUnitCircle.xib */,
+				972F4176152287EA00D2CD40 /* VolAreaEqns.h */,
+				972F4177152287EA00D2CD40 /* VolAreaEqns.m */,
+				972F4178152287EA00D2CD40 /* VolAreaEqns.xib */,
+				972F418F152287F600D2CD40 /* Pictures */,
+				972F410E152287B200D2CD40 /* PrimeNumbers.h */,
+				972F410F152287B200D2CD40 /* PrimeNumbers.m */,
+				972F4110152287B200D2CD40 /* PrimeNumbers.xib */,
 				972F40DA1522876800D2CD40 /* ViCalc Pro */,
 				972F40D31522876700D2CD40 /* Frameworks */,
 				972F40D11522876700D2CD40 /* Products */,
@@ -96,6 +297,62 @@
 				972F40E21522876800D2CD40 /* ViCalc Pro-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		972F418F152287F600D2CD40 /* Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				972F4111152287B200D2CD40 /* QuadraticFormula.png */,
+				972F4112152287B200D2CD40 /* RandomNumberView.png */,
+				972F4113152287B200D2CD40 /* ScreenA.png */,
+				972F4114152287B200D2CD40 /* ScreenB.png */,
+				972F4115152287B200D2CD40 /* TableBackground.png */,
+				972F4116152287B200D2CD40 /* Top20IntegralsPic.png */,
+				972F4117152287B200D2CD40 /* Top20IntegralsPic2.png */,
+				972F4118152287B200D2CD40 /* TopIntegrals.png */,
+				972F4119152287B200D2CD40 /* Trig Unit Circle.png */,
+				972F411A152287B200D2CD40 /* Trig Unit Cirle Chart.png */,
+				972F411B152287B200D2CD40 /* TrigIdentities.png */,
+				972F411C152287B200D2CD40 /* TrigLaws.png */,
+				972F411D152287B200D2CD40 /* TrigLawsView.png */,
+				972F411E152287B200D2CD40 /* TrigUnitCircleView.png */,
+				972F411F152287B200D2CD40 /* ViCalcBasicCalcView.png */,
+				972F4120152287B200D2CD40 /* ViCalcIconR.png */,
+				972F4121152287B200D2CD40 /* ViCalcMainView.png */,
+				972F4122152287B200D2CD40 /* VolAreaEquationsView.png */,
+				972F4123152287B200D2CD40 /* VolumePic.png */,
+				972F4124152287B200D2CD40 /* WhiteOpaqueBackground.png */,
+				972F40F1152287B200D2CD40 /* ACButton.png */,
+				972F40F2152287B200D2CD40 /* AreaPic.png */,
+				972F40F3152287B200D2CD40 /* BackButton.png */,
+				972F40F4152287B200D2CD40 /* BackgroundButton.png */,
+				972F40F5152287B200D2CD40 /* CButton.png */,
+				972F40F6152287B200D2CD40 /* ClearButton.png */,
+				972F40F7152287B200D2CD40 /* DecimalPoint.png */,
+				972F40F8152287B200D2CD40 /* Default Icon.png */,
+				972F40F9152287B200D2CD40 /* Default.png */,
+				972F40FA152287B200D2CD40 /* DefaultIcon.png */,
+				972F40FB152287B200D2CD40 /* DivideSign.png */,
+				972F40FC152287B200D2CD40 /* EqualSign.png */,
+				972F40FD152287B200D2CD40 /* FindButton.png */,
+				972F40FE152287B200D2CD40 /* icon.png */,
+				972F40FF152287B200D2CD40 /* MasterBackground.png */,
+				972F4100152287B200D2CD40 /* MinusSign.png */,
+				972F4101152287B200D2CD40 /* MultiplySign.png */,
+				972F4102152287B200D2CD40 /* NegativeButton.png */,
+				972F4103152287B200D2CD40 /* Number0.png */,
+				972F4104152287B200D2CD40 /* Number1.png */,
+				972F4105152287B200D2CD40 /* Number2.png */,
+				972F4106152287B200D2CD40 /* Number3.png */,
+				972F4107152287B200D2CD40 /* Number4.png */,
+				972F4108152287B200D2CD40 /* Number5.png */,
+				972F4109152287B200D2CD40 /* Number6.png */,
+				972F410A152287B200D2CD40 /* Number7.png */,
+				972F410B152287B200D2CD40 /* Number8.png */,
+				972F410C152287B200D2CD40 /* Number9.png */,
+				972F410D152287B200D2CD40 /* PlusSign.png */,
+			);
+			name = Pictures;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,6 +408,69 @@
 			files = (
 				972F40DF1522876800D2CD40 /* InfoPlist.strings in Resources */,
 				972F40EB1522876800D2CD40 /* ViewController.xib in Resources */,
+				972F4125152287B200D2CD40 /* ACButton.png in Resources */,
+				972F4126152287B200D2CD40 /* AreaPic.png in Resources */,
+				972F4127152287B200D2CD40 /* BackButton.png in Resources */,
+				972F4128152287B200D2CD40 /* BackgroundButton.png in Resources */,
+				972F4129152287B200D2CD40 /* CButton.png in Resources */,
+				972F412A152287B200D2CD40 /* ClearButton.png in Resources */,
+				972F412B152287B200D2CD40 /* DecimalPoint.png in Resources */,
+				972F412C152287B200D2CD40 /* Default Icon.png in Resources */,
+				972F412D152287B200D2CD40 /* Default.png in Resources */,
+				972F412E152287B200D2CD40 /* DefaultIcon.png in Resources */,
+				972F412F152287B200D2CD40 /* DivideSign.png in Resources */,
+				972F4130152287B200D2CD40 /* EqualSign.png in Resources */,
+				972F4131152287B200D2CD40 /* FindButton.png in Resources */,
+				972F4132152287B200D2CD40 /* icon.png in Resources */,
+				972F4133152287B200D2CD40 /* MasterBackground.png in Resources */,
+				972F4134152287B200D2CD40 /* MinusSign.png in Resources */,
+				972F4135152287B200D2CD40 /* MultiplySign.png in Resources */,
+				972F4136152287B200D2CD40 /* NegativeButton.png in Resources */,
+				972F4137152287B200D2CD40 /* Number0.png in Resources */,
+				972F4138152287B200D2CD40 /* Number1.png in Resources */,
+				972F4139152287B200D2CD40 /* Number2.png in Resources */,
+				972F413A152287B200D2CD40 /* Number3.png in Resources */,
+				972F413B152287B200D2CD40 /* Number4.png in Resources */,
+				972F413C152287B200D2CD40 /* Number5.png in Resources */,
+				972F413D152287B200D2CD40 /* Number6.png in Resources */,
+				972F413E152287B200D2CD40 /* Number7.png in Resources */,
+				972F413F152287B200D2CD40 /* Number8.png in Resources */,
+				972F4140152287B200D2CD40 /* Number9.png in Resources */,
+				972F4141152287B200D2CD40 /* PlusSign.png in Resources */,
+				972F4143152287B200D2CD40 /* PrimeNumbers.xib in Resources */,
+				972F4144152287B200D2CD40 /* QuadraticFormula.png in Resources */,
+				972F4145152287B200D2CD40 /* RandomNumberView.png in Resources */,
+				972F4146152287B200D2CD40 /* ScreenA.png in Resources */,
+				972F4147152287B200D2CD40 /* ScreenB.png in Resources */,
+				972F4148152287B200D2CD40 /* TableBackground.png in Resources */,
+				972F4149152287B200D2CD40 /* Top20IntegralsPic.png in Resources */,
+				972F414A152287B200D2CD40 /* Top20IntegralsPic2.png in Resources */,
+				972F414B152287B200D2CD40 /* TopIntegrals.png in Resources */,
+				972F414C152287B200D2CD40 /* Trig Unit Circle.png in Resources */,
+				972F414D152287B200D2CD40 /* Trig Unit Cirle Chart.png in Resources */,
+				972F414E152287B200D2CD40 /* TrigIdentities.png in Resources */,
+				972F414F152287B200D2CD40 /* TrigLaws.png in Resources */,
+				972F4150152287B200D2CD40 /* TrigLawsView.png in Resources */,
+				972F4151152287B200D2CD40 /* TrigUnitCircleView.png in Resources */,
+				972F4152152287B200D2CD40 /* ViCalcBasicCalcView.png in Resources */,
+				972F4153152287B200D2CD40 /* ViCalcIconR.png in Resources */,
+				972F4154152287B200D2CD40 /* ViCalcMainView.png in Resources */,
+				972F4155152287B200D2CD40 /* VolAreaEquationsView.png in Resources */,
+				972F4156152287B200D2CD40 /* VolumePic.png in Resources */,
+				972F4157152287B200D2CD40 /* WhiteOpaqueBackground.png in Resources */,
+				972F417A152287EA00D2CD40 /* AboutPage.xib in Resources */,
+				972F417C152287EA00D2CD40 /* Average.xib in Resources */,
+				972F417E152287EA00D2CD40 /* BasicCalculator.xib in Resources */,
+				972F4180152287EA00D2CD40 /* GCFandLCM.xib in Resources */,
+				972F4182152287EA00D2CD40 /* QuadraticEquationSolver.xib in Resources */,
+				972F4184152287EA00D2CD40 /* RandomNumberGenerator.xib in Resources */,
+				972F4186152287EA00D2CD40 /* SemesterGradeCalc.xib in Resources */,
+				972F4188152287EA00D2CD40 /* TopIntegrals.xib in Resources */,
+				972F418A152287EA00D2CD40 /* TrigLaws.xib in Resources */,
+				972F418C152287EA00D2CD40 /* TrigUnitCircle.xib in Resources */,
+				972F418E152287EA00D2CD40 /* VolAreaEqns.xib in Resources */,
+				972F419115228B0300D2CD40 /* ViCalcIconR.png in Resources */,
+				972F419315228B0D00D2CD40 /* DefaultIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -164,6 +484,18 @@
 				972F40E11522876800D2CD40 /* main.m in Sources */,
 				972F40E51522876800D2CD40 /* AppDelegate.m in Sources */,
 				972F40E81522876800D2CD40 /* ViewController.m in Sources */,
+				972F4142152287B200D2CD40 /* PrimeNumbers.m in Sources */,
+				972F4179152287EA00D2CD40 /* AboutPage.m in Sources */,
+				972F417B152287EA00D2CD40 /* Average.m in Sources */,
+				972F417D152287EA00D2CD40 /* BasicCalculator.m in Sources */,
+				972F417F152287EA00D2CD40 /* GCFandLCM.m in Sources */,
+				972F4181152287EA00D2CD40 /* QuadraticEquationSolver.m in Sources */,
+				972F4183152287EA00D2CD40 /* RandomNumberGenerator.m in Sources */,
+				972F4185152287EA00D2CD40 /* SemesterGradeCalc.m in Sources */,
+				972F4187152287EA00D2CD40 /* TopIntegrals.m in Sources */,
+				972F4189152287EA00D2CD40 /* TrigLaws.m in Sources */,
+				972F418B152287EA00D2CD40 /* TrigUnitCircle.m in Sources */,
+				972F418D152287EA00D2CD40 /* VolAreaEqns.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +572,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ViCalc Pro/ViCalc Pro-Prefix.pch";
 				INFOPLIST_FILE = "ViCalc Pro/ViCalc Pro-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -251,6 +584,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ViCalc Pro/ViCalc Pro-Prefix.pch";
 				INFOPLIST_FILE = "ViCalc Pro/ViCalc Pro-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
